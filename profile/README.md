@@ -1,5 +1,5 @@
 # RenCord
-A collection of Vencord plugins made by [ren](https://github.com/rendotgay)
+[![ren.gay badge](badge.svg)](https://github.com/rendotgay)
 
 ## Prerequisites
 - Git
