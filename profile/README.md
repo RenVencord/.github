@@ -23,3 +23,6 @@
   cd ../..
   pnpm build
   ```
+
+---
+<sub>RenVencord is not associated with Discord or Vencord.</sub>
