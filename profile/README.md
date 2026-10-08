@@ -20,7 +20,6 @@
   ```bash
   cd src/userplugins
   git clone <repo>
-  cd ../..
   pnpm build
   ```
 
